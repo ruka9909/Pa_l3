@@ -72,4 +72,8 @@
     <!-- Show top shadow -->
     <string name="show_top_shadow">Show top shadow</string>
 
+    <!-- Parallel space -->
+    <string name="laboratory_parallel_space_title">Parallel space</string>
+    <string name="laboratory_parallel_space_summary">Allow running multiple instances of the same application in parallel</string>
+
 </resources>
